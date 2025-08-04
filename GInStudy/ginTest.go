@@ -44,7 +44,5 @@ func HelloWorldPost(c *gin.Context) {
 
 // func getUserInfo(c *gin.Context) (string, string) {
 // 	name := c.PostForm("username")
-//
-
-// 这是hyp-study分支
+// 这是hyp3分支
 // }
